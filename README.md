@@ -23,12 +23,12 @@ I am a passionate **Software Developer** with a focus on **Java**, **React**, **
 
 ## 🛠️ Projects
 
-### 🌐 [Blog Application (Java Full Stack)](https://github.com/Aman-Kumar-Gautam/blog-application)  
+### 🌐 [Blog Application (Java Full Stack)]  
 A fully responsive blog platform built using **Java**, **Spring Boot**, **React**, and **MySQL**.  
 _**Features**_: User authentication, CRUD operations, Search, and Comment sections.  
 ---
 
-### 💬 [WhatsApp Chat Clone (React)](https://github.com/Aman-Kumar-Gautam/whatsapp-chat-clone)  
+### 💬 [WhatsApp Chat Clone (React)]  
 A replica of WhatsApp built with **React**, featuring real-time messaging and notifications.  
 _**Features**_: Real-time chat, message notifications, and media sharing.
 
@@ -38,7 +38,7 @@ _**Features**_: Real-time chat, message notifications, and media sharing.
 
 I am a firm believer in continuous learning, and I am currently:
 - Exploring **Cloud Solutions** with **AWS** to deploy scalable applications.
-- Sharpening my **Problem-Solving** skills by solving daily challenges on **LeetCode** and **Codeforces**.
+- Sharpening my **Problem-Solving** skills by solving daily challenges on **LeetCode** .
 
 ---
 
@@ -51,8 +51,8 @@ I am a firm believer in continuous learning, and I am currently:
 
 ## 📣 Let's Connect!
 
-- 💼 **LinkedIn**: [Aman Gautam](https://www.linkedin.com/in/aman-gautam-98398717a)
-- 📧 **Email**: amangautam862@gmail.com
+- 💼 **LinkedIn**: [Aman Gautam]
+- 📧 **Email**: amangautam.fsdev@gmail.com
 
 ---
 
@@ -63,28 +63,28 @@ I believe **code** is like art — it should be both functional and beautiful. W
 ---
 
 ## 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=aman-kumar-gautam&show_icons=true&count_private=true&theme=dark&hide_title=true" alt="Aman-Kumar-Gautam GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dev-Aman-Gautam&show_icons=true&count_private=true&theme=dark&hide_title=true" alt="Dev-Aman-Gautam GitHub stats"/>
 
 
 ---
 
 ## 📊 Profile Analytics
 
-- **Profile Views**: <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-kumar-gautam&label=Profile%20views&color=0e75b6&style=flat" alt="aman-kumar-gautam" /> </p>
+- **Profile Views**: <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev-Aman-Gautam&label=Profile%20views&color=0e75b6&style=flat" alt="Dev-Aman-Gautam" /> </p>
 
 ---
 
 ## 📉 GitHub Activity
 
 - **Longest Streak**:  
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman-kumar-gautam&" alt="Aman-Kumar-Gautam g"&layout=compact&theme=dark /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Aman-Gautam&" alt="Dev-Aman-Gautam g"&layout=compact&theme=dark /></p>
 
 ---
  🌍 Most Used Languages
 
 Check out the languages I use the most to build awesome projects! Here’s a peek at my **Top Used Programming Languages**:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Kumar-Gautam&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Aman-Gautam&layout=compact&theme=dark)
 
 ---
 
